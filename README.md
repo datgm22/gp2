@@ -49,9 +49,6 @@
 ### 内容
 - ガイダンス
   - [シラバス](https://drive.google.com/file/d/1dh4gBnerQ649BEe-4-Ha3_uJoMpoMQaU/view?usp=sharing)
-- [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
-  - [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
-  - [最初の設計方針](https://docs.google.com/document/d/1Ot_jadhsFOjefdIhCJYXgoVQkaul-6bOnTWJ0JsWOxo/)
 - 研究用ドキュメントの作成と共有
   - 1年で作成したブログサービスを利用。以下、ブログサービス例
     - [Qiita](https://qiita.com/)
@@ -62,5 +59,5 @@
     - [WiX](https://ja.wix.com/)
   - テーマを考える
     - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
-  - 考えたテーマを表題にしたブログ記事を作成して限定公開する。確認できるURLを [こちら](https://docs.google.com/forms/d/e/1FAIpQLSez2qy7CH6hRwDInk3qD_dfjoBB2Up8Q9uCMZS1feIVv5r8iQ/viewform?usp=sf_link) から送信
+  - 考えたテーマを表題にしたブログ記事を作成して限定公開する。確認できるURLを [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link) から送信
 
