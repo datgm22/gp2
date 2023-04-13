@@ -51,6 +51,9 @@
 - ガイダンス
   - [シラバス](https://drive.google.com/file/d/1dh4gBnerQ649BEe-4-Ha3_uJoMpoMQaU/view?usp=sharing)
 - GitHub Desktopのインストール
+- プログラミング指南
+  - [内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)
+  - [内藤時浩. ゲーム制作の工数設定](https://codeknowledge.livedoor.blog/archives/12988411.html)
 - 研究用ドキュメントの作成と共有
   - 1年で作成したブログサービスを利用。以下、ブログサービス例
     - [Qiita](https://qiita.com/)
@@ -62,8 +65,5 @@
   - テーマを考える
     - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
   - 考えたテーマを表題にしたブログ記事を作成して限定公開する。確認できるURLを [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link) から送信
-- プログラミング指南
-  - [内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)
-  - [内藤時浩. ゲーム制作の工数設定](https://codeknowledge.livedoor.blog/archives/12988411.html)
 
 
