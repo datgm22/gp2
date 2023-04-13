@@ -49,6 +49,7 @@
 ### 内容
 - ガイダンス
   - [シラバス](https://drive.google.com/file/d/1dh4gBnerQ649BEe-4-Ha3_uJoMpoMQaU/view?usp=sharing)
+- GitHub Desktopのインストール
 - 研究用ドキュメントの作成と共有
   - 1年で作成したブログサービスを利用。以下、ブログサービス例
     - [Qiita](https://qiita.com/)
