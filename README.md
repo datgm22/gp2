@@ -51,6 +51,10 @@
 - ガイダンス
   - [シラバス](https://drive.google.com/file/d/1dh4gBnerQ649BEe-4-Ha3_uJoMpoMQaU/view?usp=sharing)
 - GitHub Desktopのインストール
+- Unityの動作確認
+  - Unityの右上のDefaultをクリック
+  - Load Layout from File... を選択
+  - a601教室 > teacher > tanaka のフォルダー内の `DATlayout.wlt` を開く
 - プログラミング指南
   - [内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)
   - [内藤時浩. ゲーム制作の工数設定](https://codeknowledge.livedoor.blog/archives/12988411.html)
