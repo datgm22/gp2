@@ -69,5 +69,5 @@
   - テーマを考える
     - [テーマの選び方](https://docs.google.com/document/d/1BzTwQbndVpkUS72ulsKNSiULScvXLPMJ38S5REH5wmM/)
   - 考えたテーマを表題にしたブログ記事を作成して限定公開する。確認できるURLを [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link) から送信
-
+  - [GIZMODE. ChapGPT、これやって」うまくやってもらうために知っておきたい4つの構成要素](https://www.gizmodo.jp/2023/04/organize-what-you-let-chatgpt-do-according-to-instruction-input-context-output.html)
 
