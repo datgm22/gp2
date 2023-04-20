@@ -43,8 +43,12 @@
 
 ### 予定
 - 共同開発練習
-  - GitHub Packagesを使うやり方
-  - GitHubのPull Requestを使うやり方
+  - Unityパッケージによる開発
+    - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
+    - [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
+  - マージによる開発
+    - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
+    - ブランチ操作
 - 研究テーマの調査、および、卒業制作の企画まとめ
 - 企画概要共有
 - VOpenの企画概要紹介
