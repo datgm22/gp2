@@ -39,6 +39,15 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## 2回目
+
+### 予定
+- 共同開発練習
+  - GitHub Packagesを使うやり方
+  - GitHubのPull Requestを使うやり方
+- 研究テーマの調査、および、卒業制作の企画まとめ
+- 企画概要共有
+- VOpenの企画概要紹介
 
 ## 1回目(4/14)
 
