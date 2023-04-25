@@ -42,6 +42,8 @@
 ## 2回目
 
 ### 予定
+- 卒業制作の進捗確認
+  - Re:Verser 反転ギミックと反転以外の能力案 
 - 共同開発練習
   - Unityパッケージによる開発
     - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
