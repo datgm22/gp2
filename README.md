@@ -39,11 +39,28 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 2回目
+## 3回目(4/28)
+
+### 話題
+- [gihyo.jp. 生成系AIについて開発者が知っておくべきこと](https://gihyo.jp/article/2023/04/what-developers-need-to-know-about-generative-ai?summary)
 
 ### 予定
 - 卒業制作の進捗確認
-  - Re:Verser 反転ギミックと反転以外の能力案 
+  - [Re:Verser](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing) 反転ギミックと反転以外の能力案 
+  - [Re:Start](https://docs.google.com/document/d/1XuQeTDa-wjo-56iobwTfuwJCxEf9IicRGSUfESKOJoA/edit?usp=sharing) 企画の軸をまとめる
+- 共同開発練習
+  - Unityパッケージによる開発
+    - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
+    - [Unityパッケージを利用した簡単なUnityチーム開発](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)
+  - マージによる開発
+    - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
+    - ブランチ操作
+- 研究テーマの調査、および、卒業制作の企画まとめ
+
+
+## 2回目(4/21)
+
+### 内容
 - 共同開発練習
   - Unityパッケージによる開発
     - [チーム制作用のUnityプロジェクトの作成](https://docs.google.com/document/d/1cRjenYNnFoHOXuSda-6iQNrZwfeVjqlD4iEBT32Qwck/)
@@ -53,7 +70,7 @@
     - ブランチ操作
 - 研究テーマの調査、および、卒業制作の企画まとめ
 - 企画概要共有
-- VOpenの企画概要紹介
+
 
 ## 1回目(4/14)
 
