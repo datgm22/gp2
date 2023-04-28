@@ -42,7 +42,10 @@
 ## 3回目(4/28)
 
 ### 話題
+- [ふりーむ. #ゲ制JAM](https://twitter.com/FreemGames/status/1649712904277721088) 4/29 0時～5/7 24時(9日間)
+- [ファミ通.com. 『アーマードコア6』山村D＆小倉Pロングインタビュー](https://www.famitsu.com/news/202304/27300778.html)
 - [gihyo.jp. 生成系AIについて開発者が知っておくべきこと](https://gihyo.jp/article/2023/04/what-developers-need-to-know-about-generative-ai?summary)
+- [電ファミニコゲーマー. 柴犬が自我を失った人類を導くゲーム『HUMANITY』](https://news.denfaminicogamer.jp/kikakuthetower/230427a)
 
 ### 予定
 - 卒業制作の進捗確認
