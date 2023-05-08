@@ -1,7 +1,7 @@
 # ゲームプログラミング２年生(2022年度生)
 
 ## 基本情報
-- [シラバス](https://drive.google.com/file/d/1dh4gBnerQ649BEe-4-Ha3_uJoMpoMQaU/view?usp=sharing)
+- [シラバス](https://drive.google.com/file/d/1dh4gBnerQ649BEe-4-Ha3_uJoMpoMQaU/)
 - [Google Meet](https://meet.google.com/cez-srkd-scn)
 - [Slack](https://datgm22.slack.com/)
 - [金曜日程](https://github.com/datgm23/design/blob/main/fri.md)
@@ -39,6 +39,22 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## 4回目(5/12)
+
+### 予定
+- [オブジェクト指向復習(1)](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
+- 習作プロジェクト開発(1) 仕様書作成
+  - [VBirdOpenの企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
+  - [VBirdOpenの仕様書作成](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
+  - 参考 [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
+  - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
+  
+- 共同開発練習 / マージによる開発
+  - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
+  - ブランチ操作
+- 研究テーマ進捗報告と作業
+
+
 ## 3回目(4/28)
 
 ### 話題
@@ -47,7 +63,7 @@
 - [gihyo.jp. 生成系AIについて開発者が知っておくべきこと](https://gihyo.jp/article/2023/04/what-developers-need-to-know-about-generative-ai?summary)
 - [電ファミニコゲーマー. 柴犬が自我を失った人類を導くゲーム『HUMANITY』](https://news.denfaminicogamer.jp/kikakuthetower/230427a)
 
-### 予定
+### 内容
 - 卒業制作の進捗確認
   - [Re:Verser](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing) 反転ギミックと反転以外の能力案 
   - [Re:Start](https://docs.google.com/document/d/1XuQeTDa-wjo-56iobwTfuwJCxEf9IicRGSUfESKOJoA/edit?usp=sharing) 企画の軸をまとめる
