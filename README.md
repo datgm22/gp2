@@ -44,6 +44,7 @@
 ### 予定
 - [オブジェクト指向復習(1)](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
 - 習作プロジェクト開発(1) 仕様書作成
+  - VBirdOpenの仕様書のひな形をコピーして、書き入れていってみよう
   - [VBirdOpenの企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
   - [VBirdOpenの仕様書作成](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
   - 参考 [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
