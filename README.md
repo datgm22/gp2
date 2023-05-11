@@ -49,9 +49,10 @@
   - 参考 [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
   - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
   
-- 共同開発練習 / マージによる開発
+<!-- - 共同開発練習 / マージによる開発
   - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
   - ブランチ操作
+-->
 - 研究テーマ進捗報告と作業
 
 
