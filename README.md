@@ -56,6 +56,7 @@ https://docs.google.com/spreadsheets/d/1_6A1pw5YEejxRqgcBIFU-WStsAw5ftvE9N41ujrY
   - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
 - システム設計
 - 研究テーマ進捗報告と作業
+  - 画像生成系AIを調査
 
 <!-- - 共同開発練習 / マージによる開発
   - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
