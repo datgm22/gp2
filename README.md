@@ -39,9 +39,34 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 4回目(5/12)
+## 5回目(5/19)
+
+### 話題
+- [ゲームメーカーズ. Google、現実世界の地理座標とリンクしたARコンテンツを作成できるツール『Geospatial Creator』を発表。UnityとAdobe Aeroで利用可能](https://gamemakers.jp/article/2023_05_11_38671/)
+  - [developers.google.com Unity用Geospatial Creatorを使ってみる](https://developers.google.com/codelabs/arcore-unity-geospatial-creator?hl=ja#0)
+- [developers.google.com フォトリアリスティック3Dタイルの概要](https://developers.google.com/maps/documentation/tile/3d-tiles-overview?hl=ja)
+
+https://docs.google.com/spreadsheets/d/1_6A1pw5YEejxRqgcBIFU-WStsAw5ftvE9N41ujrYrcA/edit?usp=sharing
 
 ### 予定
+- 習作プロジェクト開発(2) システム設計
+  - [VBirdOpen講義版の仕様書](https://docs.google.com/spreadsheets/d/1_6A1pw5YEejxRqgcBIFU-WStsAw5ftvE9N41ujrYrcA/)
+  - [VBirdOpenの企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
+  - 参考 [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
+  - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
+- システム設計
+- 研究テーマ進捗報告と作業
+
+<!-- - 共同開発練習 / マージによる開発
+  - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
+  - ブランチ操作
+-->
+
+
+
+## 4回目(5/12)
+
+### 内容
 - [オブジェクト指向復習(1)](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/)
 - 習作プロジェクト開発(1) 仕様書作成
   - [VBirdOpenの仕様書テンプレート](https://docs.google.com/spreadsheets/d/16zKCOkOVN7197Fafo0BL6pbpibKuvccSykvO1cjp9_k/)をコピーして書き入れていってみよう
@@ -49,13 +74,6 @@
   - 参考 [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
   - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
   
-<!-- - 共同開発練習 / マージによる開発
-  - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
-  - ブランチ操作
--->
-- 研究テーマ進捗報告と作業
-
-
 ## 3回目(4/28)
 
 ### 話題
