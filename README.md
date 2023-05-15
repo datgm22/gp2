@@ -42,11 +42,10 @@
 ## 5回目(5/19)
 
 ### 話題
+- [ゲームメーカーズ. Cesium、地図から3Dデータを取得する『Photorealistic 3D Tiles』をリリース。Googleが持つ地理情報に基づいたリアルな3Dモデルをインポートできる](https://gamemakers.jp/article/2023_05_15_38875/)
 - [ゲームメーカーズ. Google、現実世界の地理座標とリンクしたARコンテンツを作成できるツール『Geospatial Creator』を発表。UnityとAdobe Aeroで利用可能](https://gamemakers.jp/article/2023_05_11_38671/)
   - [developers.google.com Unity用Geospatial Creatorを使ってみる](https://developers.google.com/codelabs/arcore-unity-geospatial-creator?hl=ja#0)
 - [developers.google.com フォトリアリスティック3Dタイルの概要](https://developers.google.com/maps/documentation/tile/3d-tiles-overview?hl=ja)
-
-https://docs.google.com/spreadsheets/d/1_6A1pw5YEejxRqgcBIFU-WStsAw5ftvE9N41ujrYrcA/edit?usp=sharing
 
 ### 予定
 - 習作プロジェクト開発(2) システム設計
