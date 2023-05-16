@@ -54,6 +54,7 @@
   - 参考 [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
   - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
 - システム設計
+  - 仕様書の処理内容を確認して、他のオブジェクトと関わるものを抜き出して、システムとしてゲームオブジェクトやクラスの構成を検討する
 - 研究テーマ進捗報告と作業
   - 画像生成系AIを調査
 
