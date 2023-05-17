@@ -74,7 +74,11 @@
   - [VBirdOpenの企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
   - 参考 [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
   - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
-  
+
+<!--
+来年度はVBirdではなく、仕様書テンプレートをコピーして、よけとるの仕様書を自分たちで作って練習する。
+-->
+
 ## 3回目(4/28)
 
 ### 話題
