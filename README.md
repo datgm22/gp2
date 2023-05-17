@@ -49,7 +49,7 @@
 
 ### 予定
 - 習作プロジェクト開発(2) システム設計
-  - [VBirdOpen講義版の仕様書](https://docs.google.com/spreadsheets/d/1_6A1pw5YEejxRqgcBIFU-WStsAw5ftvE9N41ujrYrcA/)
+  - [VBirdOpen仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
   - [VBirdOpenの企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
   - 参考 [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
   - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
