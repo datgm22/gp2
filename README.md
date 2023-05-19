@@ -56,6 +56,7 @@
   - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
 - システム設計
   - 仕様書の処理内容を確認して、他のオブジェクトと関わるものを抜き出して、システムとしてゲームオブジェクトやクラスの構成を検討する
+  - [ボタンと仕掛けのシステム](https://docs.google.com/document/d/1bUggkcOIWQfkcCPcU83lspN2_tHvSPKIloy3CIUOS_w/)
 - 研究テーマ進捗報告と作業
   - 画像生成系AIを調査
     - Slackの自分のtimes_に調べたAIについて書き込む
