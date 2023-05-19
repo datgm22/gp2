@@ -66,7 +66,7 @@
 
 ### 集まったサービス
 #### Midjourney
-- https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F
+- https://www.midjourney.com/home/
 - https://docs.midjourney.com/docs/plans
 - https://docs.midjourney.com/docs/terms-of-service
 - https://udemy.benesse.co.jp/data-science/ai/midjourney.html
