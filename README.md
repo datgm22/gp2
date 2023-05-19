@@ -88,6 +88,7 @@
 
 #### Stable Diffusion
 - https://stablediffusionweb.com/
+- https://note.com/npaka/n/ncb69accd707f
 
 #### DALL-E 2
 - https://openai.com/dall-e-2/
