@@ -39,6 +39,15 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## 6回目(5/26)
+
+### 予定
+- 習作プロジェクト開発(2) システム設計
+- [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
+- 研究テーマ進捗報告と作業
+  - [画像生成系AIを調査結果]()
+
+
 ## 5回目(5/19)
 
 ### 話題
@@ -48,7 +57,7 @@
 - [developers.google.com フォトリアリスティック3Dタイルの概要](https://developers.google.com/maps/documentation/tile/3d-tiles-overview?hl=ja)
 - [サイバーエージェント、最大68億パラメータの日本語LLM（大規模言語モデル）を一般公開](https://www.cyberagent.co.jp/news/detail/id=28817)
 
-### 予定
+### 内容
 - 習作プロジェクト開発(2) システム設計
   - [VBirdOpen仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
   - [VBirdOpenの企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
@@ -65,61 +74,6 @@
       - 公式サイトのURL
       - 利用規約や料金の概要
 
-### 集まったサービス
-#### Midjourney
-- https://www.midjourney.com/home/
-- https://docs.midjourney.com/docs/plans
-- https://docs.midjourney.com/docs/terms-of-service
-- https://udemy.benesse.co.jp/data-science/ai/midjourney.html
-- https://maneql.co.jp/blog/2023/03/21/how-to-use-midjourney/
-
-#### Adobe Firefly
-- https://www.adobe.com/jp/sensei/generative-ai/firefly.html
-- https://k-tai.watch.impress.co.jp/docs/news/1487668.html
-
-#### Blockade Labs
-- https://www.blockadelabs.com/
-- https://note.com/nakashun_t/n/nd518915b9233
-- https://manaberucg.com/blockadeabs/
-- https://www.youtube.com/watch?v=OSnJH22UFTE
-
-#### Generated Photos
-- https://generated.photos/
-- https://www.profuture.co.jp/mk/column/50771
-
-#### Stable Diffusion
-- https://stablediffusionweb.com/
-- https://note.com/npaka/n/ncb69accd707f
-
-#### DALL-E 2
-- https://openai.com/dall-e-2/
-
-#### Starryai
-- https://starryai.com/
-
-#### Dream by WOMBO
-- https://dream.ai/
-
-#### Deep AI
-- https://deepai.org/
-- https://sothinkmedia.com/ja/ai-illust-sites-free#part8
-- https://deepai.org/terms-of-service/terms-of-service
-
-#### craiyon
-- https://www.craiyon.com/
-- https://atmarkit.itmedia.co.jp/ait/articles/2208/04/news034.html
-- https://tcd-theme.com/2023/02/image-generator-ai-free-pc.html
-
-#### Artbreeder
-- https://www.artbreeder.com/
-- https://www.artbreeder.com/terms.pdf
-
-#### pixai.arg
-- https://pixai.art/
-- https://pixai.art/terms
-
-#### Refer
-- https://refer-art.jp/#about-refer
 
 <!-- - 共同開発練習 / マージによる開発
   - [練習用プロジェクト](https://github.com/tanakaedu/GP2Sandbox)のフォーク、クローン
