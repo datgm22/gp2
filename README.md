@@ -5,6 +5,7 @@
 - [Google Meet](https://meet.google.com/cez-srkd-scn)
 - [Slack](https://datgm22.slack.com/)
 - [金曜日程](https://github.com/datgm23/design/blob/main/fri.md)
+- [画像生成系AIの調査結果](https://github.com/datgm22/gp2/blob/main/generative_ai.md)
 
 ## 参考URL / 図書
 - [AtCoder](https://atcoder.jp/?lang=ja)
@@ -45,7 +46,7 @@
 - 習作プロジェクト開発(2) システム設計
 - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
 - 研究テーマ進捗報告と作業
-  - [画像生成系AIを調査結果]()
+  - [画像生成系AIの調査結果](https://github.com/datgm22/gp2/blob/main/generative_ai.md)
 
 
 ## 5回目(5/19)
