@@ -45,6 +45,7 @@
 ### 話題
 - [『初音ミク「マジカルミライ 2023」プログラミング・コンテスト』](https://magicalmirai.com/2023/procon/) 4/12～7/18 12:00まで
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
+- [Suika2](http://suika2.com/)
 
 ### 予定
 - 習作プロジェクト開発(2) システム設計
