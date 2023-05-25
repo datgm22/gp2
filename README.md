@@ -48,6 +48,10 @@
 - [Suika2](http://suika2.com/)
 
 ### 予定
+- 不要なフォルダをGitの管理から外す
+  - https://qiita.com/ytkt/items/a2afd6be8e4f06c1ea25
+- 色変更の考え方
+- ドラッグ移動の考え方
 - 習作プロジェクト開発(2) システム設計
   - [VBirdOpen仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
   - [VBirdOpenの企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
