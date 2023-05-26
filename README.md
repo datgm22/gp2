@@ -50,7 +50,7 @@
 ### 予定
 - 不要なフォルダをGitの管理から外す
   - https://qiita.com/ytkt/items/a2afd6be8e4f06c1ea25
-- 色変更の考え方
+- [Re:verserの色変更の考え方](https://docs.google.com/document/d/1lHLePfDQFpzPQOz7mtcPhX8A3s2_m4hV81RQQlL9dx0/)
 - ドラッグ移動の考え方
 - 習作プロジェクト開発(2) システム設計
   - [VBirdOpen仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
