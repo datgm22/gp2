@@ -40,6 +40,12 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+## 7回目(6/2)
+
+### 予定
+- Re:Verserのプレイヤー移動
+- ドラッグ移動の考え方
+
 ## 6回目(5/26)
 
 ### 話題
@@ -47,7 +53,7 @@
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 - [Suika2](http://suika2.com/)
 
-### 予定
+### 内容
 - 不要なフォルダをGitの管理から外す
   - https://qiita.com/ytkt/items/a2afd6be8e4f06c1ea25
 - [Re:verserの色変更の考え方](https://docs.google.com/document/d/1lHLePfDQFpzPQOz7mtcPhX8A3s2_m4hV81RQQlL9dx0/)
