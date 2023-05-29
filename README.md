@@ -45,6 +45,15 @@
 ### 予定
 - Re:Verserのプレイヤー移動
 - ドラッグ移動の考え方
+- 習作プロジェクト開発(2) システム設計
+  - [VBirdOpen仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
+  - [VBirdOpenの企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
+  - 参考 [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
+  - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
+- [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
+- 研究テーマ進捗報告と作業
+  - [画像生成系AIの調査結果](https://github.com/datgm22/gp2/blob/main/generative_ai.md)
+
 
 ## 6回目(5/26)
 
