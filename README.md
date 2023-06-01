@@ -49,6 +49,9 @@
 
 ## 7回目(6/2)
 
+### 話題
+- [Unity.  Unity 2022LTS is here!](https://youtu.be/5OgvVVQyur8)
+
 ### 予定
 - ホップホップのプレイヤーの移動を考える
 - Re:Verserのプレイヤー移動
