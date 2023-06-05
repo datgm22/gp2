@@ -40,11 +40,31 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 打ち合わせ用ドキュメント
+## 8回目(6/9)
+
+### 予定
+- 進捗確認と開発
+- 習作プロジェクト開発(2) システム設計
+  - [VBirdOpen仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
+  - [VBirdOpenの企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
+- [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
+- 研究テーマ進捗報告と作業
+  - [画像生成系AIの調査結果](https://github.com/datgm22/gp2/blob/main/generative_ai.md)
+
+### 打ち合わせ用ドキュメント
 - [ホップホップアドベンチャー](https://docs.google.com/document/d/1-VGXqAFYWYy4uI3OAxxPlNYZDJAb4GuScCF3P8zCqUY/edit?usp=sharing)
 - [Re:Start](https://docs.google.com/document/d/1XuQeTDa-wjo-56iobwTfuwJCxEf9IicRGSUfESKOJoA/edit?usp=sharing)
 - [探偵はウィルス](https://docs.google.com/document/d/1r8nKwqf3WWIcQBMlqn0gCwXGol89WftxkMNeanr4Jjs/edit?usp=sharing)
 - [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
+
+### 習作プロジェクト
+- [VBirdOpen仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
+- [VBirdOpenの企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
+- 参考 [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
+- 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
+- [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
+
+
 
 
 ## 7回目(6/2)
@@ -52,17 +72,9 @@
 ### 話題
 - [Unity.  Unity 2022LTS is here!](https://youtu.be/5OgvVVQyur8)
 
-### 予定
+### 内容
 - ホップホップのプレイヤーの移動を考える
 - Re:Verserのプレイヤー移動
-- 習作プロジェクト開発(2) システム設計
-  - [VBirdOpen仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
-  - [VBirdOpenの企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
-  - 参考 [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
-  - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
-- [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
-- 研究テーマ進捗報告と作業
-  - [画像生成系AIの調査結果](https://github.com/datgm22/gp2/blob/main/generative_ai.md)
 
 
 ## 6回目(5/26)
