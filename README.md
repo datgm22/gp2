@@ -40,9 +40,16 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 8回目(6/9)
+## 9回目(6/16)
+
+### 話題
+- [東京大学「Pythonプログラミング入門」の授業ページ](https://utokyo-ipp.github.io/course/)
 
 ### 予定
+
+## 8回目(6/9)
+
+### 内容
 - 進捗確認と開発
 - 習作プロジェクト開発(2) システム設計
   - [VBirdOpen仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
