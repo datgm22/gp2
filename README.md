@@ -46,10 +46,6 @@
 - [東京大学「Pythonプログラミング入門」の授業ページ](https://utokyo-ipp.github.io/course/)
 
 ### 予定
-
-## 8回目(6/9)
-
-### 内容
 - 進捗確認と開発
 - 習作プロジェクト開発(2) システム設計
   - [VBirdOpen仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
@@ -72,6 +68,11 @@
 - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
 
 
+## 8回目(6/9)
+
+### 内容
+- 進捗確認と開発
+- Re:Verserのプレイヤー移動の検討
 
 
 ## 7回目(6/2)
