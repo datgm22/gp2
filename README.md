@@ -40,19 +40,13 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 9回目(6/16)
-
-### 話題
-- [東京大学「Pythonプログラミング入門」の授業ページ](https://utokyo-ipp.github.io/course/)
+## 10回目(6/23)
 
 ### 予定
-- 進捗確認と開発
-- 習作プロジェクト開発(2) システム設計
-  - [VBirdOpen仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
-  - [VBirdOpenの企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
-- [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
-- 研究テーマ進捗報告と作業
-  - [画像生成系AIの調査結果](https://github.com/datgm22/gp2/blob/main/generative_ai.md)
+- 中間発表会の準備
+  - スライドや実行ファイルなど、発表できる形を整える
+  - 5分の発表練習
+
 
 ### 打ち合わせ用ドキュメント
 - [ホップホップアドベンチャー](https://docs.google.com/document/d/1-VGXqAFYWYy4uI3OAxxPlNYZDJAb4GuScCF3P8zCqUY/edit?usp=sharing)
@@ -66,6 +60,25 @@
 - 参考 [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
 - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
 - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
+
+
+### 設計
+- 習作プロジェクト開発(2) システム設計
+  - [VBirdOpen仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
+  - [VBirdOpenの企画構想書](https://docs.google.com/document/d/1-6sB9m8iG1kSux1ovdeTRY5WTQ9BcGynHrTI-aQ_GAg/)
+- [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
+
+
+## 9回目(6/16)
+
+### 話題
+- [東京大学「Pythonプログラミング入門」の授業ページ](https://utokyo-ipp.github.io/course/)
+
+### 内容
+- 進捗確認と開発
+  - ほっぷほっぷ仕掛け作り
+- 研究テーマ進捗報告と作業
+  - [画像生成系AIの調査結果](https://github.com/datgm22/gp2/blob/main/generative_ai.md)
 
 
 ## 8回目(6/9)
