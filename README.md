@@ -40,9 +40,15 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 10回目(6/23)
+## 11回目(6/30)
 
 ### 予定
+- [Unity Test Runnerの利用](https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021)
+- 個人研究テーマの再検討
+
+## 10回目(6/23)
+
+### 内容
 - 中間発表会の準備
   - スライドや実行ファイルなど、発表できる形を整える
   - 5分の発表練習
