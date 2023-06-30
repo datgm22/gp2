@@ -46,6 +46,7 @@
 - [Unity Test Runnerの利用](https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021)
 - 個人研究テーマの再検討
 - 卒業制作のチーム制作への参加要望のとりまとめ
+  - [中間発表会コメント](https://docs.google.com/document/d/1LzcR1tGoaXDTHSnC7MUg0SuBaCYq4uzxPx866dzsv7c/)
 
 ## 10回目(6/23)
 
