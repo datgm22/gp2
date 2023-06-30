@@ -45,6 +45,7 @@
 ### 予定
 - [Unity Test Runnerの利用](https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021)
 - 個人研究テーマの再検討
+- 卒業制作のチーム制作への参加要望のとりまとめ
 
 ## 10回目(6/23)
 
