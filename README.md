@@ -47,6 +47,7 @@
 - 個人研究テーマの再検討
 - 卒業制作のチーム制作への参加要望のとりまとめ
   - [中間発表会コメント](https://docs.google.com/document/d/1LzcR1tGoaXDTHSnC7MUg0SuBaCYq4uzxPx866dzsv7c/)
+  - [参加企画の現時点での希望](https://docs.google.com/spreadsheets/d/1IZT8hhKBWmiHGDXvtnLPqNlvx0q_tYsDmyu88vC-GEw/)
 
 ## 10回目(6/23)
 
