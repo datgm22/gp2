@@ -40,9 +40,15 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 11回目(6/30)
+## 12回目(7/7)
 
 ### 予定
+- 設計のチェックと必要に応じた修正
+- 個人研究テーマの進捗確認
+
+## 11回目(6/30)
+
+### 内容
 - [Unity Test Runnerの利用](https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021)
 - 個人研究テーマの再検討
 - 卒業制作のチーム制作への参加要望のとりまとめ
@@ -69,6 +75,7 @@
 - 参考 [投げ機企画構想書](https://am1tanaka.notion.site/7c8cab39bf27441fbf870704f208593e)
 - 参考 [投げ機仕様書](https://docs.google.com/spreadsheets/d/1X1vrMpdw1e38_3z1vIY38400RX3wxii_5YhHY7Pw4AI/)
 - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
+
 
 
 ### 設計
