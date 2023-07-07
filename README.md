@@ -44,6 +44,7 @@
 
 ### 予定
 - 手順の作成例 FPSの操作
+  - [技術ブログを書く](https://docs.google.com/document/d/1pN0-V7FFfZClCOHSM--se3JSA0FP20g7aP54_6T6mmw/)
 - 個人研究テーマの進捗確認
 
 ### 延期
