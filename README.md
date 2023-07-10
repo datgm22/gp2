@@ -40,9 +40,16 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
-## 12回目(7/7)
+## 13回目(7/14)
 
 ### 予定
+- 個人研究テーマの進捗確認
+  - 次回、中間発表
+- [技術ブログを書く](https://docs.google.com/document/d/1pN0-V7FFfZClCOHSM--se3JSA0FP20g7aP54_6T6mmw/)
+
+## 12回目(7/7)
+
+### 内容
 - 手順の作成例 FPSの操作
   - [技術ブログを書く](https://docs.google.com/document/d/1pN0-V7FFfZClCOHSM--se3JSA0FP20g7aP54_6T6mmw/)
 - 個人研究テーマの進捗確認
