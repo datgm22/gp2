@@ -45,6 +45,7 @@
 ### 予定
 - 個人研究テーマの進捗の共有
 - [技術ブログを書く](https://docs.google.com/document/d/1pN0-V7FFfZClCOHSM--se3JSA0FP20g7aP54_6T6mmw/)
+  - 締め切り 9/1(金)
 
 
 ## 13回目(7/14)
