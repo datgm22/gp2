@@ -40,6 +40,13 @@
 - [ネクストん3D](https://www.youtube.com/c/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%933D/videos)
 - [おもちゃラボ](https://nn-hokuson.hatenablog.com/entry/2017/04/14/204822)
 
+### 自習可能なゲームエンジン
+- [ティラノビルダー](https://b.tyrano.jp/)
+- [ティラノスクリプト](https://tyrano.jp/)
+- [Mind Render](https://mindrender.jp/)
+- [RAPTEX](https://raptex.jp/)
+- [GDevelop](https://gdevelop.io/ja-jp)
+
 ## 16回目(9/8)
 
 ### 予定
