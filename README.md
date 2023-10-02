@@ -48,9 +48,13 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 後期1回目(10/6)
+- 各自の担当作業の聞き取り
+- DATフェスタへ向けた技術的な問題の確認
+
 ## 16回目(9/8)
 
-### 予定
+### 内容
 - DATフェスタへ向けた技術的な問題の確認
 - 個人研究ブログ
   - 記事のURLが未報告の場合は [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)から送信
