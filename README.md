@@ -49,8 +49,21 @@
 - [GDevelop](https://gdevelop.io/ja-jp)
 
 ## 後期1回目(10/6)
-- 各自の担当作業の聞き取り
+- 各自の担当作業の報告
+  - gmailを開く
+  - Googleアカウントでログイン
+  - 右上の9つの点のアイコンをクリックして、ドライブを開く
+  - 新規をクリックして、Googleドキュメントを選択
+  - タイトルを作業報告：名前(作業報告：田中など)
+  - 講義開始時に、このドキュメントを開いて、一番上の行にその日の日付を入力
+  - 入力した日付にカーソルをあわせて、標準テキストとあるコンボボックスをクリックして、見出し１に変更
+  - 日付の下の行に、箇条書きを設定(Ctrl+Shift+8キー)
+  - その日の作業内容を入力
+- 以上できたら、右上の共有ボタンをクリックして、制限付きをクリックしてリンクを知っている全員に変更
+- リンクをコピーして[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)へURLを送信
 - DATフェスタへ向けた技術的な問題の確認
+
+---
 
 ## 16回目(9/8)
 
@@ -59,6 +72,7 @@
 - 個人研究ブログ
   - 記事のURLが未報告の場合は [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)から送信
   - [技術ブログを書く](https://docs.google.com/document/d/1pN0-V7FFfZClCOHSM--se3JSA0FP20g7aP54_6T6mmw/)
+
 
 
 
