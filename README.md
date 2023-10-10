@@ -48,6 +48,10 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 後期2回目(10/13)
+- DATフェスタへ向けた技術的な問題の確認
+- 作業の共有
+
 ## 後期1回目(10/6)
 - 各自の担当作業の報告
   - gmailを開く
