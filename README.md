@@ -50,7 +50,8 @@
 
 ## 後期2回目(10/13)
 - DATフェスタへ向けた技術的な問題の確認
-  - [斜面への対応](https://am1.space/dat/gp2/rep_mochiduki.pdf)
+  - [斜面への対応](https://docs.google.com/document/d/1oe8PVFdp475bjOJ7R9w3-TJUPduUiqrZekDsUoGhsxY/)
+  - GP2最終課題参考： [斜面への対応](https://am1.space/dat/gp2/rep_mochiduki.pdf)
 - 作業の共有
 
 ## 後期1回目(10/6)
