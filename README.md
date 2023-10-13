@@ -48,6 +48,13 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 後期3回目(10/20)
+- [斜面への対応](https://docs.google.com/document/d/1oe8PVFdp475bjOJ7R9w3-TJUPduUiqrZekDsUoGhsxY/)の仕上げ。横方向移動時の埋まり対策 + 段差対策
+  - 埋まらない位置までXの位置を戻す
+  - 移動先の高さが一定以上の時は止める
+  - 高さが一定以内なら登らせる
+
+
 ## 後期2回目(10/13)
 - DATフェスタへ向けた技術的な問題の確認
   - [斜面への対応](https://docs.google.com/document/d/1oe8PVFdp475bjOJ7R9w3-TJUPduUiqrZekDsUoGhsxY/)
