@@ -48,12 +48,21 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+
 ## 後期4回目(10/27)
 - 作業と質疑応答
 - その日の最後にビルドしたものを実行ファイルフォルダーへ上書きコピー
   - `X:\2023年\ゲーム学科\卒業制作\実行ファイル`に提出
   - 作品名のフォルダーを作成して、更新日の日付を最後につけて更新日がわかるようにする(例 Yoketoru1020 など)
   - その中に実行ファイルをコピー
+
+## 打ち合わせ用ドキュメント
+- [ホップホップアドベンチャー](https://docs.google.com/document/d/1-VGXqAFYWYy4uI3OAxxPlNYZDJAb4GuScCF3P8zCqUY/edit?usp=sharing)
+- [Re:Start](https://docs.google.com/document/d/1XuQeTDa-wjo-56iobwTfuwJCxEf9IicRGSUfESKOJoA/edit?usp=sharing)
+- [探偵はウィルス](https://docs.google.com/document/d/1r8nKwqf3WWIcQBMlqn0gCwXGol89WftxkMNeanr4Jjs/edit?usp=sharing)
+- [Reverser-改](https://docs.google.com/document/d/1Ae4N2BFBdCiy1190hOE6U8GPEbzQ6XZhex56PdkoGms/edit?usp=sharing)
+- [RECAPTURE](https://docs.google.com/document/d/1jbtgSImay2xSgITf1BgOIPppVdO6lrRPfi0zDPVF2LE/edit?usp=sharing)
+- [中間発表会コメント](https://docs.google.com/document/d/1LzcR1tGoaXDTHSnC7MUg0SuBaCYq4uzxPx866dzsv7c/)
 
 
 ### DAT後
