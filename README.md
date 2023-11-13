@@ -51,8 +51,9 @@
 ## 後期5回目(11/17)
 
 ### 予定
-- 最終研究テーマの設定と進め方 / 以降、毎週DAT作品のコードレビュー
+- 最終研究テーマの設定と進め方 / 以降、毎週コードレビュー
   - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+  - 開発作品のレビュー
 
 ## 後期4回目(10/27)
 - 作業と質疑応答
