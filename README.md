@@ -53,7 +53,10 @@
 ### 予定
 - 最終研究テーマの設定と進め方 / 以降、毎週コードレビュー
   - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+    - サーバーとデータベース
+    - paizaとマイナビで環境を検索
   - 開発作品のレビュー
+    - [講師評価メモ](https://docs.google.com/document/d/1NB1TnCLaCR5kqL6OmUU96C6vVwfFgu9_m-3BGQTPsbo/)
 
 ## 後期4回目(10/27)
 - 作業と質疑応答
