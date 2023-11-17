@@ -55,7 +55,7 @@
   - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
     - サーバーとデータベース
     - paizaとマイナビで環境を検索
-      - Pythonの場合、[Google Coiab](https://colab.research.google.com/?hl=ja)
+      - Pythonの場合、[Google Colab](https://colab.research.google.com/?hl=ja)
       - PHPの場合、[Google Cloud](https://cloud.google.com/php/getting-started?hl=ja)
         - [費用について](https://cloud.google.com/free/docs/free-cloud-features?hl=ja#free-tier-usage-limits)
   - 開発作品のレビュー
