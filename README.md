@@ -60,6 +60,7 @@
         - [費用について](https://cloud.google.com/free/docs/free-cloud-features?hl=ja#free-tier-usage-limits)
   - 開発作品のレビュー
     - [講師評価メモ](https://docs.google.com/document/d/1NB1TnCLaCR5kqL6OmUU96C6vVwfFgu9_m-3BGQTPsbo/)
+    - [ホップホップ改　企画概要書](https://docs.google.com/document/d/1PSNoABtz4DYjGDmBcPxfVC1_XWg0lxQeONhYEfchniU/)
 
 ## 後期4回目(10/27)
 - 作業と質疑応答
