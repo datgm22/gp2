@@ -8,14 +8,15 @@
 - [画像生成系AIの調査結果](https://github.com/datgm22/gp2/blob/main/generative_ai.md)
 
 ## 参考URL / 図書
-- [AtCoder](https://atcoder.jp/?lang=ja)
+- [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
+- [シェーダーの基礎 The Book of Shaders](https://thebookofshaders.com/?lan=jp)
 - [paiza](https://paiza.jp/)
   - [paizaのスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
 - [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
 - [Dustin Boswell. リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)](https://www.amazon.co.jp/dp/4873115655/ref=cm_sw_r_tw_dp_H1D6XS3GJ1FVYJ4WMJES)
+- [AtCoder](https://atcoder.jp/?lang=ja)
 - [Robert C.Martin. Clean Architecture 達人に学ぶソフトウェアの構造と設計](https://www.amazon.co.jp/dp/4048930656/ref=cm_sw_r_tw_dp_0X2WF11K1XDVR9KNJFDW)
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
-- [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
 ## 参考資料
 - [Unityの命名規則](http://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
@@ -34,6 +35,7 @@
 - [2Dプラットフォーマー用プレイヤーシンプル版](https://docs.google.com/presentation/d/1JT3qWDmEP1DzptlampgO8s6G98_xDo0vjBz7Gn-OI1I/)
 
 ### シェーダー関連
+- [シェーダーの基礎 The Book of Shaders](https://thebookofshaders.com/?lan=jp)
 - [Unity Learning Material. パーティクル](https://learning.unity3d.jp/tag/particle/)
 - [Unity Learning Material. シェーダー](https://learning.unity3d.jp/tag/shader/)
 - [Unity Learning Material. VFX Graph](https://learning.unity3d.jp/tag/vfx-graph/)
@@ -50,6 +52,9 @@
 
 
 ## 後期6回目(11/24)
+
+### 話題
+- [シェーダーの基礎 The Book of Shaders](https://thebookofshaders.com/?lan=jp)
 
 ### 予定
 
