@@ -50,6 +50,10 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 後期7回目(12/1)
+
+### 予定
+- Unityでシェーダーをいじる
 
 ## 後期6回目(11/24)
 
