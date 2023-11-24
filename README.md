@@ -56,6 +56,11 @@
 ### 話題
 - [シェーダーの基礎 The Book of Shaders](https://thebookofshaders.com/?lan=jp)
 
+### DVDラベルとパッケージ
+- [DVDラベルとパッケージ](https://github.com/datgm20/sotsusei/blob/main/dvd-format.md)
+- [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
+
+
 ### 予定
 
 - 卒業制作作品のDVDの検討
