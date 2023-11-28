@@ -54,6 +54,20 @@
 
 ### 予定
 - Unityでシェーダーをいじる
+- 個人の研究テーマ聞き取り
+  - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+    - 卒業制作で担当した部分の解説、個人成果への発展
+    - サーバーとデータベース
+      - Pythonの場合、[Google Colab](https://colab.research.google.com/?hl=ja)
+      - PHPの場合、[Google Cloud](https://cloud.google.com/php/getting-started?hl=ja)
+        - [費用について](https://cloud.google.com/free/docs/free-cloud-features?hl=ja#free-tier-usage-limits)
+    - paizaとマイナビで環境を検索
+    - シェーダー
+  - 開発作品のレビュー
+    - [講師評価メモ](https://docs.google.com/document/d/1NB1TnCLaCR5kqL6OmUU96C6vVwfFgu9_m-3BGQTPsbo/)
+    - [ホップホップ改　企画概要書](https://docs.google.com/document/d/1PSNoABtz4DYjGDmBcPxfVC1_XWg0lxQeONhYEfchniU/)
+    - [Re:Verserの改良](https://docs.google.com/document/d/1PfLysIX27EVjJxna8IxSteexnKNauHBg2LvCDcqQd0Q/)
+    - CaveEscapeは容量の削減
 
 ## 後期6回目(11/24)
 
@@ -65,8 +79,7 @@
 - [DVDの焼き方](https://github.com/datgm20/sotsusei/blob/main/dvd_write.md)
 
 
-### 予定
-
+### 内容
 - 卒業制作作品のDVDの検討
   - DVDパッケージを作成するかどうかをチーム内で検討
   - 作成する場合は、自作するか、ゲームCGにお願いするかを検討
