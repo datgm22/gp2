@@ -52,6 +52,10 @@
 
 ## 後期7回目(12/1)
 
+### 話題
+- [celestialmaze. x shader](https://twitter.com/cmzw_/status/1729860575025668251)
+
+
 ### 予定
 - Unityでシェーダーをいじる
 - 個人の研究テーマ聞き取り
