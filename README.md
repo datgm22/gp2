@@ -57,7 +57,7 @@
 
 
 ### 予定
-- Unityでシェーダーをいじる
+- [Unityでシェーダーをいじる](https://docs.google.com/document/d/1JhDpRetPQ4bp_bKkyINdS1fSpRqoPNfE7gFxR2uL2tc/)
 - 個人の研究テーマ聞き取り
   - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
     - 卒業制作で担当した部分の解説、個人成果への発展
