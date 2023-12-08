@@ -57,6 +57,7 @@
   - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
     - 卒業制作で担当した部分の解説、個人成果への発展
     - サーバーとデータベース
+      - [データベース概論](https://docs.google.com/document/d/1JjZNcCT18rqp5gUalF96tiF2zjjj_BndJbkZa_ImtdM/)
       - paiza.ioでMySQLの実行が可能。データは保存されないがSQLをまとめて実行して試すことができる
       - Pythonの場合、[Google Colab](https://colab.research.google.com/?hl=ja)
       - PHPの場合、[Google Cloud](https://cloud.google.com/php/getting-started?hl=ja)
