@@ -50,9 +50,15 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
-## 後期8回目(12/8)
+## 後期9回目(12/15)
 
 ### 予定
+- 1週間ゲームジャム素振り
+- 個人研究
+
+## 後期8回目(12/8)
+
+### 内容
 - 個人の研究テーマ聞き取り
   - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
     - 卒業制作で担当した部分の解説、個人成果への発展
