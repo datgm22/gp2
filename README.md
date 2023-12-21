@@ -57,6 +57,9 @@
 - [unity1week Team-Up!!　はじめました](https://note.com/metaformingpro/n/n200ae566e501)
 - [unityroomのスコアランキング機能の実装方法](https://unityroom-help.notion.site/4fae458305a948818b90e50dcad6a3f3)
 
+### 次回予定
+- 1週間ゲームジャムや個人研究についての成果報告
+
 ### 予定
 - もくもく会方式
   - 開始時に現状と今日やることを簡単に報告
