@@ -56,6 +56,11 @@
 - 成果物をポートフォリオに反映させて報告
   - 作品タイトル、ゲーム画面のスクリーンショット、ゲーム概要、操作説明、ルール、使用アセットを掲載する
   - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+- 作品ページ用の素材作成
+  - [2022年度生 ゲームプログラマーコース卒業制作作品集](https://datgm22.github.io/works/)
+  - [作成の手引き](https://github.com/datgm22/sotsusei/blob/main/make_web.md)
+  - 実行ファイルは圧縮して100MB以下にする。超える場合はふりーむなどのサイトへ公開したURLを報告してもらうか、実行ファイルは不掲載とする
+  - 参考 [2021年度生 卒業制作作品集](https://datgm21.github.io/works/)
 - 個人研究の紹介と進捗報告
 
 ## 後期10回目(12/21)
