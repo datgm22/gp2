@@ -52,6 +52,9 @@
 
 ## 後期12回目(1/19)
 
+### 話題
+- [Board Game Arena. online development platform](https://studio.boardgamearena.com/)
+
 ### 内容
 - 正月休みや卒業制作などのこれまでの成果物をポートフォリオに反映させて報告
   - 作品タイトル、ゲーム画面のスクリーンショット、ゲーム概要、操作説明、ルール、使用アセットを掲載する
