@@ -50,7 +50,8 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
-## 後期12回目(1/19)
+
+## 後期12, 13回目(1/19, 26)
 
 ### 話題
 - [Board Game Arena. online development platform](https://studio.boardgamearena.com/)
