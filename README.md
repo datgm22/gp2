@@ -54,11 +54,6 @@
 ## 後期12, 13回目(1/19, 26)
 
 - 個人研究レポート、ポートフォリオ締め切り 2/2(金) 12:20まで
-  - 個人研究レポート
-    - 例
-      - [【Godot4.2.x】はじめてのGodotフラグメントシェーダー](https://am1tanaka.hatenablog.com/entry/godot-fragshader)
-      - [Godotのインストールなどの記事](https://am1.jp/tabs/godot-top.html)
-  - ポートフォリオ(1年で作成したもの)の更新
 
 ### 話題
 - [Board Game Arena. online development platform](https://studio.boardgamearena.com/)
@@ -66,6 +61,9 @@
 ### 内容
 - 個人研究の紹介と進捗報告
   - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+  - 例
+    - [【Godot4.2.x】はじめてのGodotフラグメントシェーダー](https://am1tanaka.hatenablog.com/entry/godot-fragshader)
+    - [Godotのインストールなどの記事](https://am1.jp/tabs/godot-top.html)
 - 正月休みや卒業制作などのこれまでの成果物をポートフォリオに反映させて報告
   - 作品タイトル、ゲーム画面のスクリーンショット、ゲーム概要、操作説明、ルール、使用アセットを掲載する
   - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
