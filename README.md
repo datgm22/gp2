@@ -53,8 +53,8 @@
 
 ## 後期12, 13回目(1/19, 26)
 
-- 個人研究、ポートフォリオ締め切り 2/2(金) 12:20まで
-  - 個人レポート
+- 個人研究レポート、ポートフォリオ締め切り 2/2(金) 12:20まで
+  - 個人研究レポート
     - 例
       - [【Godot4.2.x】はじめてのGodotフラグメントシェーダー](https://am1tanaka.hatenablog.com/entry/godot-fragshader)
       - [Godotのインストールなどの記事](https://am1.jp/tabs/godot-top.html)
