@@ -55,6 +55,9 @@
 
 - 個人研究、ポートフォリオ締め切り 2/2(金) 12:20まで
   - 個人レポート
+    - 例
+      - [【Godot4.2.x】はじめてのGodotフラグメントシェーダー](https://am1tanaka.hatenablog.com/entry/godot-fragshader)
+      - [Godotのインストールなどの記事](https://am1.jp/tabs/godot-top.html)
   - ポートフォリオ(1年で作成したもの)の更新
 
 ### 話題
