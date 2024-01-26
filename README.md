@@ -64,6 +64,8 @@
 - [Board Game Arena. online development platform](https://studio.boardgamearena.com/)
 
 ### 内容
+- 個人研究の紹介と進捗報告
+  - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
 - 正月休みや卒業制作などのこれまでの成果物をポートフォリオに反映させて報告
   - 作品タイトル、ゲーム画面のスクリーンショット、ゲーム概要、操作説明、ルール、使用アセットを掲載する
   - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
@@ -72,8 +74,6 @@
   - [作成の手引き](https://github.com/datgm22/sotsusei/blob/main/make_web.md)
   - 実行ファイルは圧縮して100MB以下にする。超える場合はふりーむなどのサイトへ公開したURLを報告してもらうか、実行ファイルは不掲載とする
   - 参考 [2021年度生 卒業制作作品集](https://datgm21.github.io/works/)
-- 個人研究の紹介と進捗報告
-  - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
 
 
 ## 後期11回目(1/12)
