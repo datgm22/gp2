@@ -54,6 +54,8 @@
 ## 後期12, 13回目(1/19, 26)
 
 - 個人研究、ポートフォリオ締め切り 2/2(金) 12:20まで
+  - 個人レポート
+  - ポートフォリオ(1年で作成したもの)の更新
 
 ### 話題
 - [Board Game Arena. online development platform](https://studio.boardgamearena.com/)
@@ -68,6 +70,7 @@
   - 実行ファイルは圧縮して100MB以下にする。超える場合はふりーむなどのサイトへ公開したURLを報告してもらうか、実行ファイルは不掲載とする
   - 参考 [2021年度生 卒業制作作品集](https://datgm21.github.io/works/)
 - 個人研究の紹介と進捗報告
+  - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
 
 
 ## 後期11回目(1/12)
