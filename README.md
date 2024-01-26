@@ -53,7 +53,7 @@
 
 ## 後期12, 13回目(1/19, 26)
 
-- 個人研究、ポートフォリオ締め切り 2/2(金) 16:10まで
+- 個人研究、ポートフォリオ締め切り 2/2(金) 12:20まで
 
 ### 話題
 - [Board Game Arena. online development platform](https://studio.boardgamearena.com/)
