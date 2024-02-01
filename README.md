@@ -51,6 +51,16 @@
 - [GDevelop](https://gdevelop.io/ja-jp)
 
 
+## 後期14回目(2/2)
+
+### 内容
+- 個人研究の仕上げと発表
+  - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+  - 例
+    - [【Godot4.2.x】はじめてのGodotフラグメントシェーダー](https://am1tanaka.hatenablog.com/entry/godot-fragshader)
+    - [Godotのインストールなどの記事](https://am1.jp/tabs/godot-top.html)
+
+
 ## 後期12, 13回目(1/19, 26)
 
 - 個人研究レポート、ポートフォリオ締め切り 2/2(金) 12:20まで
