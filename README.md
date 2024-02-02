@@ -57,6 +57,7 @@
 - 個人研究の仕上げと発表
   - [最終課題の進め方](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
   - 例
+    - [【Godot】ボタンなどのGUIの見た目を調整する](https://am1.jp/godot/dev/gui-theme/)
     - [【Godot4.2.x】はじめてのGodotフラグメントシェーダー](https://am1tanaka.hatenablog.com/entry/godot-fragshader)
     - [Godotのインストールなどの記事](https://am1.jp/tabs/godot-top.html)
 
