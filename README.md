@@ -50,6 +50,11 @@
 - [RAPTEX](https://raptex.jp/)
 - [GDevelop](https://gdevelop.io/ja-jp)
 
+## 後期15回目(2/9)
+
+### 予定
+- 全体の復習
+- DVDの書き込み
 
 ## 後期14回目(2/2)
 
